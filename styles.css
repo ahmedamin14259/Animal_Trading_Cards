@@ -1,0 +1,29 @@
+.animalphoto{
+	width: 300px;
+	height: 200px;
+}
+.thefact{
+	font-style: italic;
+}
+span{
+	color: blue;
+	font-weight: bold;
+}
+ul{
+	list-style: none;
+}
+.infodiv{
+	border: 1px solid #DCDCDC;
+	padding-right: 2em;
+	padding-left: 2em;
+}
+.maindiv{
+	border: 1px solid black;
+	width: 300px;
+	padding-right: 2em;
+	padding-left: 2em;
+	padding-bottom: 6em;
+	box-shadow: 6px 6px 1px 0px #EBEBEB;
+	display: flex;
+	flex-wrap: wrap;
+}
